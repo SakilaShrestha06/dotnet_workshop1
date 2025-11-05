@@ -1,0 +1,14 @@
+/Users/sakilashrestha/RiderProjects/ConsoleApp1/Task 1/bin/Debug/net9.0/Task 1
+/Users/sakilashrestha/RiderProjects/ConsoleApp1/Task 1/bin/Debug/net9.0/Task 1.deps.json
+/Users/sakilashrestha/RiderProjects/ConsoleApp1/Task 1/bin/Debug/net9.0/Task 1.runtimeconfig.json
+/Users/sakilashrestha/RiderProjects/ConsoleApp1/Task 1/bin/Debug/net9.0/Task 1.dll
+/Users/sakilashrestha/RiderProjects/ConsoleApp1/Task 1/bin/Debug/net9.0/Task 1.pdb
+/Users/sakilashrestha/RiderProjects/ConsoleApp1/Task 1/obj/Debug/net9.0/Task 1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sakilashrestha/RiderProjects/ConsoleApp1/Task 1/obj/Debug/net9.0/Task 1.AssemblyInfoInputs.cache
+/Users/sakilashrestha/RiderProjects/ConsoleApp1/Task 1/obj/Debug/net9.0/Task 1.AssemblyInfo.cs
+/Users/sakilashrestha/RiderProjects/ConsoleApp1/Task 1/obj/Debug/net9.0/Task 1.csproj.CoreCompileInputs.cache
+/Users/sakilashrestha/RiderProjects/ConsoleApp1/Task 1/obj/Debug/net9.0/Task 1.dll
+/Users/sakilashrestha/RiderProjects/ConsoleApp1/Task 1/obj/Debug/net9.0/refint/Task 1.dll
+/Users/sakilashrestha/RiderProjects/ConsoleApp1/Task 1/obj/Debug/net9.0/Task 1.pdb
+/Users/sakilashrestha/RiderProjects/ConsoleApp1/Task 1/obj/Debug/net9.0/Task 1.genruntimeconfig.cache
+/Users/sakilashrestha/RiderProjects/ConsoleApp1/Task 1/obj/Debug/net9.0/ref/Task 1.dll
